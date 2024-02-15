@@ -1,0 +1,5 @@
+<INICIO>
+1. obtener datos de la tienda
+2. obtener Porductos mas vendidos para ('mujeres','niños')
+3. Mostrar reporte de ventas
+<FIN>
