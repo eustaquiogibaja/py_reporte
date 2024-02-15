@@ -1,0 +1,5 @@
+<INICIO>
+1. obtener datos de la tienda en ('LIMA','AREQUIPA','TRUJILLO','PIURA')
+2. obtener Porductos por vencer en ('MARZO','ABRIL','MAYO')
+3. Mostrar reporte de ventas
+<FIN>
